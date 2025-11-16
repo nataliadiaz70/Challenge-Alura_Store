@@ -19,11 +19,10 @@ Para cada tienda se calcularon:
 
 ## Resultados Principales
 Los indicadores muestran que:
-- La **Tienda 4** presenta la **menor facturación total** y el **ticket promedio más bajo**.
-- Si bien posee el **costo de envío más bajo**, esta ventaja no compensa el bajo nivel de ingresos generados.
+- La **Tienda 3** presenta la tendencia en baja y sin respuesta a estimulos externos.
 
 ## Conclusión
-Se recomienda **cerrar o reconvertir la Tienda 4**, ya que su desempeño comercial es significativamente inferior al de las otras tiendas. Los recursos destinados a su operación pueden reorientarse para optimizar la rentabilidad general.
+Se recomienda **cerrar o reconvertir la Tienda 3**, ya que su desempeño comercial es significativamente inferior al de las otras tiendas. Los recursos destinados a su operación pueden reorientarse para optimizar la rentabilidad general.
 
 ---
 
